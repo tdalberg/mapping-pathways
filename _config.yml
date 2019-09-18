@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+title: project site
+author: tobias dalberg
+github_username: tdalberg
+theme: minima
