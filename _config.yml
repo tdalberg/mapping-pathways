@@ -1,4 +1,7 @@
-title: project site
+title: mapping pathways in higher education
 author: tobias dalberg
 github_username: tdalberg
 theme: minima
+
+header_pages:
+ - activities.md
