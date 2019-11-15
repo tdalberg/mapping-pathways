@@ -8,3 +8,4 @@ theme: minima
 
 header_pages:
  - activities.md
+ - writings.md
