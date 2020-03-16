@@ -8,6 +8,7 @@ permalink: /activities/
 ___
 
 - **Presentation** by Tobias Dalberg titled "TBD" at the Comparative Sociology workshop, Graduate School of Education, Stanford University, April 20, 2020.
+- **Presentation** of the paper "Election Matters: Gender and the Evolution of Major Choice among US Undergraduates" at the session 'Tracking, Curricular Structure, and Inequality', 115th ASA Annual Meeting, San Francisco, August 8-11, 2020.
 
 ## past events
 ___
