@@ -7,12 +7,18 @@ permalink: /activities/
 ## upcoming events
 ___
 
-- **Presentation** by Tobias Dalberg titled "Does Election Matter? Gender and the Evolution of Major Selection among US Undergraduates" at the Comparative Sociology workshop, Graduate School of Education, Stanford University, April 20, 2020.
-- **Presentation** of research related to the paper "Election Matters: Gender and the Evolution of Major Choice among US Undergraduates" at the Wieman Group meeting, scheduled for March-May, 2020.
+- **Presentation** of the paper "Gender and the Evolution of Major Selection among US Undergraduates" at the SHEFOE workshop, Department of Education, Uppsala University, June 12, 2020.
 - **Presentation** of the paper "Election Matters: Gender and the Evolution of Major Choice among US Undergraduates" at the session 'Tracking, Curricular Structure, and Inequality', 115th ASA Annual Meeting, San Francisco, August 8-11, 2020.
 
 ## past events
 ___
+
+### 2020
+
+- **Presentation** by Tobias Dalberg titled "Does Election Matter? Gender and the Evolution of Major Selection among US Undergraduates" at the Comparative Sociology workshop, Graduate School of Education, Stanford University, April 20, 2020.
+- **Presentation** of research related to the paper "Election Matters: Gender and the Evolution of Major Choice among US Undergraduates" at the Wieman Group meeting, scheduled for March-May, 2020.
+
+### 2019
 
 - **Presentation** at the Cartalab meeting, Gates Computer Science, Stanford University, November 20, 2019.
 - **Presentation** by Tobias Dalberg titled "Gender and fields of study in US undergraduate education: An organizational case study" at the Inequality workshop, Department of Sociology, Stanford University, September 27, 2019.
