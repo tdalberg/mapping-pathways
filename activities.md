@@ -7,7 +7,7 @@ permalink: /activities/
 ## upcoming events
 ___
 
-- **Presentation** of the paper "Studying Course Consideration at Scale" (Chaturapruek et al) at the Cartalab meeting, Gates Computer Science, Stanford University, August 26, 2020.
+- **Presentation** of the paper "Studying Undergraduate Course Consideration at Scale" at the Cartalab meeting, online, Stanford University, August 26, 2020.
 
 ## past events
 ___
