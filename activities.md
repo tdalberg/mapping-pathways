@@ -7,7 +7,7 @@ permalink: /activities/
 ## upcoming events
 ___
 
-
+- **Presentation** at the Assessment of Knowledge in Educational Systems (ASSESS) national doctoral program kickoff meeting, online, University of Gothenburg, November 9, 2020.
 
 ## past events
 ___
