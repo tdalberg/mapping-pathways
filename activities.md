@@ -7,12 +7,14 @@ permalink: /activities/
 ## upcoming events
 ___
 
-- **Presentation** at the Assessment of Knowledge in Educational Systems (ASSESS) national doctoral program kickoff meeting, online, University of Gothenburg, November 9, 2020.
+
 
 ## past events
 ___
 
 ### 2020
+
+- **Presentation** at the Assessment of Knowledge in Educational Systems (ASSESS) national doctoral program kickoff meeting, online, University of Gothenburg, November 9, 2020.
 
 - **Presentation** of the paper "Studying Undergraduate Course Consideration at Scale" at the Cartalab meeting, online, Stanford University, August 26, 2020.
 - **Presentation** of the paper "Gender and the Evolution of Major Selection among US Undergraduates" at the SHEFOE workshop, Department of Education, Uppsala University, June 12, 2020.
