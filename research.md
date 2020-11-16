@@ -1,0 +1,15 @@
+---
+layout: page
+title: research
+permalink: /research/
+---
+
+## research agenda
+
+Universities and colleges shape identities, occupational opportunities and life chances. Since an increasing share of each generation now enroll in higher education, choosing a post-secondary education has become a fateful decision for a growing number of people. These fateful decisions are often made in an environment where individuals are encouraged to choose freely among available options, but the outcome of these decisions tend to reflect their past experiences. The aim of the project *Mapping Pathways in Higher Education* is to understand how students consider and choose among a seemingly overwhelming supply of programs and courses, how their educational trajectories unfold, and how these actions are related to other aspects of students' experiences before, during and after their time in higher education. It does so by focusing on the processual and dynamic character of social stratification in higher education, the complexity of higher education curriculum, and on students' decision making processes as they navigate a complex higher education curriculum.
+
+**A processual and dynamic perspective** on social stratification in higher education entails situating educational choices as a potentially pivotal moment between past experiences and future trajectories, as well as studying the actual educational choices as the cumulation of decisions prior to and during enrollment in higher education.
+
+**The complexity of higher education curriculum** is a shorthand for describing the range of available options and their ramifications, the process of making the curriculum, and the agents who have stakes in this process. To anyone involved in higher education, the range of options, their interrelations and interchangeability and their long-term ramifications is obscure. The process of making the curriculum can be divided into intended and emergent curriculum. National political and administrative bodies, faculty members, academic advising units, student organizations, professional organizations, and social groups all have stakes in the process of making the intended curriculum. The struggles and the power relations between these groups are central to understand why the curriculum at a given moment is organized in a particular way. Students are also key agents in the making of the emergent curriculum by combining courses in their educational trajectories.
+
+When students navigate this complex curriculum, they engage in **decision making processes** that when amenable to observation can shed light not only on the interaction between students and the curriculum but also on decision making in social contexts more generally.

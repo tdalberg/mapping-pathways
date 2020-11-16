@@ -8,5 +8,6 @@ description:
 theme: minima
 
 header_pages:
+ - research.md
  - activities.md
  - writings.md
