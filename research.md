@@ -1,10 +1,8 @@
 ---
 layout: page
-title: research
+title: research agenda
 permalink: /research/
 ---
-
-## research agenda
 
 Universities and colleges shape identities, occupational opportunities and life chances. Since an increasing share of each generation now enroll in higher education, choosing a post-secondary education has become a fateful decision for a growing number of people. These fateful decisions are often made in an environment where individuals are encouraged to choose freely among available options, but the outcome of these decisions tend to reflect their past experiences. The aim of the project *Mapping Pathways in Higher Education* is to understand how students consider and choose among a seemingly overwhelming supply of programs and courses, how their educational trajectories unfold, and how these actions are related to other aspects of students' experiences before, during and after their time in higher education. It does so by focusing on the processual and dynamic character of social stratification in higher education, the complexity of higher education curriculum, and on students' decision making processes as they navigate a complex higher education curriculum.
 
