@@ -14,8 +14,8 @@ ___
 
 ### 2020
 
+- **Presentation** of the paper "Searching for Classes: A Latent Class Analysis of College Student Course Selection" at the Pathways lab meeting, online, Stanford University, December 16, 2020.
 - **Presentation** at the Assessment of Knowledge in Educational Systems (ASSESS) national doctoral program kickoff meeting, online, University of Gothenburg, November 9, 2020.
-
 - **Presentation** of the paper "Studying Undergraduate Course Consideration at Scale" at the Cartalab meeting, online, Stanford University, August 26, 2020.
 - **Presentation** of the paper "Gender and the Evolution of Major Selection among US Undergraduates" at the SHEFOE workshop, Department of Education, Uppsala University, June 12, 2020.
 - **Presentation** of the paper "Election Matters: Gender and the Evolution of Major Choice among US Undergraduates" at the session 'Tracking, Curricular Structure, and Inequality', 115th ASA Annual Meeting, San Francisco, August 8-11, 2020.
