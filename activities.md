@@ -7,7 +7,8 @@ permalink: /activities/
 ## upcoming events
 ___
 
-
+- **Participation** by Tobias Dalberg at the Academic Pathways Flash Conference I, Virtual meeting, University of Michigan, January 22, 2021.
+- **Participation** by Tobias Dalberg at the Academic Pathways Flash Conference II, Virtual meeting, University of Michigan, January 29, 2021.
 
 ## past events
 ___
