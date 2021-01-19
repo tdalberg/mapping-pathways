@@ -7,8 +7,11 @@ permalink: /activities/
 ## upcoming events
 ___
 
+- **Presentation** of the paper "Massification, Unification, Marketisation, Internationalisation: A Socio-Political History of Higher Education in Sweden 1945–2020" at the SEC seminar, online, Uppsala University, January 20, 2021.
+- **Participation** by Tobias Dalberg at the The Social Sciences in a European Space workshop, online, Roskilde University, January 22, 2021.
 - **Participation** by Tobias Dalberg at the Academic Pathways Flash Conference I, Virtual meeting, University of Michigan, January 22, 2021.
 - **Participation** by Tobias Dalberg at the Academic Pathways Flash Conference II, Virtual meeting, University of Michigan, January 29, 2021.
+- **Presentation** of the paper "Searching for Classes: A Latent Class Analysis of College Student Course Selection" at the SEC seminar, online, Uppsala University, March 10, 2021.
 
 ## past events
 ___
