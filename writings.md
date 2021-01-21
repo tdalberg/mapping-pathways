@@ -24,4 +24,3 @@ Marissa E. Thompson, **Tobias Dalberg** & Elizabeth Bruch: "Searching for Classe
 
 Mikael Börjesson & **Tobias Dalberg**: "Massification, Unification, Marketisation, Internationalisation: A Socio-Political History of Higher Education in Sweden 1945–2020".
 
-Mikael Börjesson, **Tobias Dalberg** & Emil Bertilsson: "Social Sciences in Swedish Higher Education 1945 to 2020: Expansion, Organsiation and Recruitment".
