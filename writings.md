@@ -20,7 +20,7 @@ Mikael Börjesson, **Tobias Dalberg** & Ola Agevall: _Högre utbildning som bild
 
 **Tobias Dalberg**, Kalena E. Cortes & Mitchell L. Stevens: "Gender and the Evolution of Major Selection among US Undergraduates".
 
-Marissa E. Thompson, **Tobias Dalberg** & Elizabeth Bruch: "Searching for Classes: A Latent Class Analysis of Student Course Consideration".
+Marissa E. Thompson, **Tobias Dalberg** & Elizabeth Bruch: "Curricular Blind Spots: How Course Consideration Varies across Undergraduate Students".
 
 Mikael Börjesson & **Tobias Dalberg**: "Massification, Unification, Marketisation, Internationalisation: A Socio-Political History of Higher Education in Sweden 1945–2020".
 
