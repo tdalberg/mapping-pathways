@@ -6,7 +6,7 @@ permalink: /writings/
 
 ## articles
 
-Sorathan Chaturapruek, **Tobias Dalberg**, Marissa E. Thompson, Sonia Giebel, Monique Harrison, Ramesh Johari, Mitchell L. Stevens & Rene F. Kizilcec: "Studying Undergraduate Course Consideration at Scale", accepted for publication at *AERA Open*. [Preprint](http://dx.doi.org/10.2139/ssrn.3432748) 
+Sorathan Chaturapruek, **Tobias Dalberg**, Marissa E. Thompson, Sonia Giebel, Monique H. Harrison, Ramesh Johari, Mitchell L. Stevens & Rene F. Kizilcec: "Studying Undergraduate Course Consideration at Scale", *AERA Open*, Vol. 7, No 1, 2021, 1-16. [Fulltext](https://doi.org/10.1177/2332858421991148) 
 
 ## reports and working papers
 
