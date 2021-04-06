@@ -7,14 +7,15 @@ permalink: /activities/
 ## upcoming events
 ___
 
+- **Presentation** of the paper "Curricular Blind Spots: How Course Consideration Varies Across Undergraduate Students" at the roundtable session 6 'Inside Colleges and Universities', 116th ASA Virtual Annual Meeting, August 6&ndash;10, 2021.
 - **Participation** by Tobias Dalberg at the Council of European Studies Conference, Virtual meeting, Iceland, June 21-25, 2021.
-- **Presentation** of the paper "Curricular Blind Spots: How Course Consideration Varies across Undergraduate Students" at the SEC seminar, online, Uppsala University, March 10, 2021.
 
 ## past events
 ___
 
 ### 2021
 
+- **Presentation** of the paper "Curricular Blind Spots: How Course Consideration Varies across Undergraduate Students" at the SEC seminar, online, Uppsala University, March 10, 2021.
 - **Participation** by Tobias Dalberg at the Academic Pathways Flash Conference II, Virtual meeting, University of Michigan, January 29, 2021.
 - **Participation** by Tobias Dalberg at the The Social Sciences in a European Space workshop, online, Roskilde University, January 22, 2021.
 - **Participation** by Tobias Dalberg at the Academic Pathways Flash Conference I, Virtual meeting, University of Michigan, January 22, 2021.
