@@ -5,7 +5,7 @@ twitter_username: tobias_dalberg
 github_username: tdalberg
 description: 
 
-theme: minimal-mistakes-jekyll
+theme: minima
 
 header_pages:
  - research.md
