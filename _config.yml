@@ -5,7 +5,8 @@ twitter_username: tobias_dalberg
 github_username: tdalberg
 description: 
 
-theme: minima
+# theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 
 header_pages:
  - research.md
