@@ -6,6 +6,8 @@ permalink: /writings/
 
 ## articles
 
+Mikael Börjesson & **Tobias Dalberg**: "Massification, Unification, Marketisation, Internationalisation: A Socio-Political History of Higher Education in Sweden 1945–2020", *European Journal of Higher Education* (accepted).
+
 Sorathan Chaturapruek, **Tobias Dalberg**, Marissa E. Thompson, Sonia Giebel, Monique H. Harrison, Ramesh Johari, Mitchell L. Stevens & Rene F. Kizilcec: "Studying Undergraduate Course Consideration at Scale", *AERA Open*, Vol. 7, No 1, 2021, 1-16. [Fulltext](https://doi.org/10.1177/2332858421991148) 
 
 ## reports and working papers
@@ -21,6 +23,4 @@ Mikael Börjesson, **Tobias Dalberg** & Ola Agevall: _Högre utbildning som bild
 **Tobias Dalberg**, Kalena E. Cortes & Mitchell L. Stevens: "Gender and the Evolution of Major Selection among US Undergraduates".
 
 Marissa E. Thompson, **Tobias Dalberg** & Elizabeth Bruch: "Curricular Blind Spots: How Course Consideration Varies across Undergraduate Students".
-
-Mikael Börjesson & **Tobias Dalberg**: "Massification, Unification, Marketisation, Internationalisation: A Socio-Political History of Higher Education in Sweden 1945–2020".
 
