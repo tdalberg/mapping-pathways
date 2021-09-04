@@ -6,7 +6,7 @@ permalink: /writings/
 
 ## articles
 
-Mikael Börjesson & **Tobias Dalberg**: "Massification, unification, marketisation, internationalisation: a socio-political history of higher education in Sweden 1945–2020", *European Journal of Higher Education*, online, 2021. [Fulltext](https://doi.org/10.1080/21568235.2021.1945473)
+Mikael Börjesson & **Tobias Dalberg**: "Massification, unification, marketisation, internationalisation: a socio-political history of higher education in Sweden 1945–2020", *European Journal of Higher Education*, Vol. 11, No 3, 2021, p. 346–364. [Fulltext](https://doi.org/10.1080/21568235.2021.1945473)
 
 Sorathan Chaturapruek, **Tobias Dalberg**, Marissa E. Thompson, Sonia Giebel, Monique H. Harrison, Ramesh Johari, Mitchell L. Stevens & Rene F. Kizilcec: "Studying Undergraduate Course Consideration at Scale", *AERA Open*, Vol. 7, No 1, 2021, 1-16. [Fulltext](https://doi.org/10.1177/2332858421991148) 
 
